@@ -1,0 +1,8 @@
+title-->global attr.
+href-->not global
+src-->not global
+hidden---->global
+charset--> not global
+class-->global attr.
+id--> global att.
+type-->not global

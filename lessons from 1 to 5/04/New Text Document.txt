@@ -1,0 +1,4 @@
+<meta charset="utf-8"> it used to provide the best support for displaying any kind of language.
+<meta name="copy right" content="company name"> all copyrights od defined company.
+<meta name="summary" content=""> it used to define summary of my document
+<meta name=”author” content=”name, email@hotmail.com”> It is used to define author of your HTML document.

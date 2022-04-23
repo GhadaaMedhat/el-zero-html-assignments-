@@ -1,0 +1,5 @@
+<!doctype html>
+quirks mode 
+yes
+no
+the levels of headings
